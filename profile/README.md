@@ -1,6 +1,4 @@
-# 🌍 BlueXPRT – Realizing Innovations
-
-![BlueXPRT Logo]((images/BX_Logo.png))
+![BlueXPRT Logo](images/BX_Logo.png)
 
 **Empowering sustainable innovation through funding, execution, and impact.**
 
@@ -49,7 +47,7 @@ Our multidisciplinary team combines diverse cultural backgrounds and expertise:
 - **Jeroen Franzel** – Mathematician Advisor
 - **Otto Nederlof** – Marketing Strategy
 
-![BlueXPRT Team]((images/Teamphoto.jpg))
+![BlueXPRT Team](images/Teamphoto.jpg)
 
 [Meet the full team](https://blue-expert.com/meet-the-team?utm_source=github_readme)
 
