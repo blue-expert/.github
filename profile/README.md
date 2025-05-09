@@ -1,52 +1,57 @@
 # 🌍 BlueXPRT – Realizing Innovations
 
+![BlueXPRT Logo]((https://blue-expert.com/wp-content/uploads/2021/01/bluexprt-logo-full.png))
+
 **Empowering sustainable innovation through funding, execution, and impact.**
 
 ---
 
 ## 🚀 About Us
 
-Since 2018, BlueXPRT has been dedicated to transforming innovative concepts into successful realities. Our mission is to assist organizations in securing funding, executing projects, and achieving success in their innovations. We strive to realize sustainable innovations that tackle global environmental challenges. :contentReference[oaicite:13]{index=13}:contentReference[oaicite:14]{index=14}
+Since 2018, **BlueXPRT** has been dedicated to transforming innovative concepts into successful realities. Our mission is to assist organizations in securing funding, executing projects, and achieving success in their innovations. We strive to realize sustainable innovations that tackle global environmental challenges. [Learn more](https://blue-expert.com/?utm_source=github_readme).
 
 ---
 
 ## 🛠️ Our Services
 
-:contentReference[oaicite:16]{index=16}:contentReference[oaicite:18]{index=18}
+We offer a comprehensive suite of services to support organizations at every stage of their innovation journey:
 
-- **Strategic Partnership Development**: :contentReference[oaicite:20]{index=20}
-- **Grant Application Development and Submission**: :contentReference[oaicite:23]{index=23}
-- **Project Management**: :contentReference[oaicite:26]{index=26}
-- **Dissemination Activities**: :contentReference[oaicite:29]{index=29}
-- **Socio-economic and Techno-economic Assessments**: :contentReference[oaicite:32]{index=32}
-- **Consultancy & Arbitration**: :contentReference[oaicite:35]{index=35} :contentReference[oaicite:37]{index=37}:contentReference[oaicite:38]{index=38}
+- **Strategic Partnership Development**: Building alliances to strengthen innovation ecosystems.
+- **Grant Application Development and Submission**: Guiding clients through funding opportunities and application processes.
+- **Project Management**: Ensuring initiatives are delivered on time, within budget, and to the highest standards.
+- **Dissemination Activities**: Executing communication plans to engage stakeholders effectively.
+- **Socio-economic and Techno-economic Assessments**: Evaluating the viability and impact of sustainable solutions.
+- **Consultancy & Arbitration**: Providing expert advice and mediation services. [Explore our services](https://blue-expert.com/our-services?utm_source=github_readme).
 
 ---
 
 ## 🌱 Our Projects
 
-:contentReference[oaicite:40]{index=40}:contentReference[oaicite:42]{index=42}
+BlueXPRT is actively involved in several projects aimed at promoting sustainability and innovation:
 
-- **SuSuCoats**: :contentReference[oaicite:44]{index=44}
-- **Green Marine**: :contentReference[oaicite:47]{index=47}
-- **X-Lives**: :contentReference[oaicite:50]{index=50}
-- **RecHycle**: :contentReference[oaicite:53]{index=53}
-- **HURRICANE**: :contentReference[oaicite:56]{index=56} :contentReference[oaicite:58]{index=58}:contentReference[oaicite:59]{index=59}
+- **SuSuCoats**: Developing eco-friendly coatings to combat corrosion and weathering, aiming to reduce environmental impact.
+- **Green Marine**: Accelerating climate neutrality in waterborne transport by retrofitting existing fleets with decarbonization solutions.
+- **X-Lives**: Creating circular solutions for polymer, fibre, and mineral materials through Dutch-German collaboration.
+- **RecHycle**: Reducing carbon dioxide emissions in steelmaking by utilizing green hydrogen and recycled gases.
+- **HURRICANE**: Transforming traditional steelmaking plants into circular hubs promoting industrial symbiosis. [Discover our projects](https://blue-expert.com/our-projects?utm_source=github_readme).
 
 ---
 
 ## 👥 Meet the Team
 
-:contentReference[oaicite:61]{index=61}:contentReference[oaicite:63]{index=63}
+Our multidisciplinary team combines diverse cultural backgrounds and expertise:
 
-- **Ludwin Daal** – :contentReference[oaicite:65]{index=65}
-- **Dr. Harsha Mysore** – :contentReference[oaicite:68]{index=68}
-- **Dr. Açelya Seçer** – :contentReference[oaicite:71]{index=71}
-- **Sergei Kabatskii** – :contentReference[oaicite:74]{index=74}
-- **Elena Azor Uroz** – :contentReference[oaicite:77]{index=77}
-- **Cyrelle Soekhai** – :contentReference[oaicite:80]{index=80}
-- **Jeroen Franzel** – :contentReference[oaicite:83]{index=83}
-- **Otto Nederlof** – :contentReference[oaicite:86]{index=86} :contentReference[oaicite:88]{index=88}:contentReference[oaicite:89]{index=89}
+- **Ludwin Daal** – Director & Innovation Consultant
+- **Dr. Harsha Mysore** – Technical Consultant & Project Manager
+- **Dr. Açelya Seçer** – Technical Expert & Researcher
+- **Sergei Kabatskii** – Sustainability Consultant & Social Sciences
+- **Elena Azor Uroz** – Communication & Marketing Expert
+- **Jeroen Franzel** – Mathematician Advisor
+- **Otto Nederlof** – Marketing Strategy
+
+![BlueXPRT Team]([(https://blue-expert.com/wp-content/uploads/2024/07/thumbnail_IMG_4332-1024x768.jpg)](https://blue-expert.com/wp-content/uploads/2024/07/thumbnail_IMG_4332-1024x768.jpg))
+
+[Meet the full team](https://blue-expert.com/meet-the-team?utm_source=github_readme)
 
 ---
 
@@ -66,7 +71,7 @@ The Netherlands
 
 ## 🤝 Join Us
 
-:contentReference[oaicite:91]{index=91} :contentReference[oaicite:94]{index=94} :contentReference[oaicite:96]{index=96}:contentReference[oaicite:97]{index=97}
+We're always looking for passionate individuals to join our team. If you're interested in making a difference through innovation, send us an open application with your CV and motivation letter. [Apply here](https://blue-expert.com/meet-the-team?utm_source=github_readme)
 
 ---
 
