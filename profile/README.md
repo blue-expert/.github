@@ -1,4 +1,4 @@
-![BlueXPRT Logo](images/BX_Logo.png)
+[![BlueXPRT Logo](images/BX_Logo.png)](https://blue-expert.com)
 
 **Empowering sustainable innovation through funding, execution, and impact.**
 
@@ -44,7 +44,7 @@ Our multidisciplinary team combines diverse cultural backgrounds and expertise:
 - **Dr. Açelya Seçer** – Technical Expert & Researcher
 - **Sergei Kabatskii** – Sustainability Consultant & Social Sciences
 - **Elena Azor Uroz** – Communication & Marketing Expert
-- **Jeroen Franzel** – Mathematician Advisor
+- **Jeroen Franzel** – Software Engineer & Junior Consultant
 - **Otto Nederlof** – Marketing Strategy
 
 ![BlueXPRT Team](images/Teamphoto.jpg)
