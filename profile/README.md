@@ -1,4 +1,6 @@
-[![BlueXPRT Logo](images/BX_Logo.png)](https://blue-expert.com)
+<a href="https://blue-expert.com" target="_blank">
+  <img src="images/BX_Logo.png" alt="Blue-Expert Logo">
+</a>
 
 **Empowering sustainable innovation through funding, execution, and impact.**
 
